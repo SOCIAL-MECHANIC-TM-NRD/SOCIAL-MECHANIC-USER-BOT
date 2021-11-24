@@ -1,15 +1,15 @@
 {
-  "name": "Catuserbot",
+  "name": "SOCIAL MECHANIC USER BOT",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://telegra.ph/file/b89ae19627f5395468182.png",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-MECHANIC-USER-BOT",
   "website": "#TODO",
-  "success_url": "#TODO",
+  "success_url": "https://t.me/SOCIAL_MECHANIC_1997",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
+      "description": "Get this value by running python3 telesetup.py locally or https://replit.com/@SOCIAL-MECHANIC/SOCIAL-MECHANIC",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "goodcat",
+      "value": "https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-MECHANIC-USER-BOT",
       "required": false
     }
   },
