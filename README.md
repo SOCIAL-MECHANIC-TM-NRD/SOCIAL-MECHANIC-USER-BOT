@@ -23,7 +23,7 @@ Generating session string:
 
 ## How to deploy SOCIAL MECHANIC USER BOT
 ### Heroku Deploy
-  ★ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-MECHANIC-USER-BOT)
+  ★ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TM-NRD/SOCIAL-MECHANIC-USER-BOT)
 
 
   
