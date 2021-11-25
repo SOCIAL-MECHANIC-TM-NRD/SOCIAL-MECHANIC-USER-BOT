@@ -28,7 +28,7 @@ Generating session string:
 
   
 ## Support
-   <a href="https://t.me/TECHNOLGY_CORNER"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/TECHNOLOGY_CORNER-1"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
    
